@@ -4,7 +4,7 @@ This project demonstrates an end-to-end data engineering pipeline for analyzing 
 
 ## Architecture Overview
 
-<img src="Architecture.jpeg">
+<img src="Architecture.png">
 
 - **Data Source:**
   - The dataset is sourced from Kaggle (Tokyo Olympics data), containing athlete, event, medal, and country information.
