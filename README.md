@@ -29,6 +29,8 @@ This project demonstrates an end-to-end data engineering pipeline for analyzing 
     - Medal counts by country
     - Athlete performance trends
     - Event statistics and comparisons
+   
+  <img src="Dashboard.png">
 
 ## Tools & Technologies
 
